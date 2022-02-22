@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pratick28
+- 👀 I’m interested in React Native Projects
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on React or React Native beginners Projects
+- 📫 How to reach me - pratick600@gmail.com
